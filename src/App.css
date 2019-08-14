@@ -1,0 +1,27 @@
+.container {
+    height: 50rem;
+    width: 30rem;
+    background: #ba112e;
+    border-radius: 5px;
+}
+
+.logo-container {
+    width: 100%;
+}
+
+.logo {
+    margin: 2rem;
+}
+
+.display {
+    width: 85%;
+    height: 6rem;
+    margin: 0 auto;
+    background: #333;
+    border-radius: 7rem;
+    color: white;
+    font-size: 3.5rem;
+    text-align: end;
+    padding-top: 1rem;
+    padding-right: 1.5rem;
+}
